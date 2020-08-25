@@ -1,0 +1,615 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="http://www.fotonotes.ru/wp-content/themes/WPInspiration/style.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.fotonotes.ru/wp-content/themes/WPInspiration/add.css" type="text/css" media="screen" />
+<title>
+Фотография как отражение окружающего мира&nbsp;|&nbsp;
+Фото блог `Заметки о фотографии`</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.fotonotes.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://www.fotonotes.ru/wp-includes/css/dist/block-library/style.min.css?ver=5.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.fotonotes.ru/wp-content/themes/WPInspiration/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://www.fotonotes.ru/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fotonotes.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fotonotes.ru/wp-includes/wlwmanifest.xml" /> 
+<script src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/js/jquery-1.4.4.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/js/DD_belatedPNG_0.0.8a-min.js"></script>
+<!--[if IE 6]>
+	<script type="text/javascript">DD_belatedPNG.fix('#pageflip img, .logo img');</script>
+        <![endif]-->
+<script type="text/javascript">
+            $(function() {
+				$('#pixzoom img').hover(
+					function(){
+						var $this = $(this);
+						$this.stop().animate({'opacity':'1.0','height':'220px','top':'0px','left':'0px'});
+					},
+					function(){
+						var $this = $(this);
+						$this.stop().animate({'opacity':'1','height':'500px','top':'-100px','left':'-150px'});
+					}
+				);
+            });
+        </script>
+
+<link rel="alternate" type="application/rss+xml" title="Фото блог `Заметки о фотографии` RSS Feed" href="http://www.fotonotes.ru/?feed=rss2"/>
+<link rel="pingback" href="http://www.fotonotes.ru/xmlrpc.php"/>
+<link rel="pingback" href="http://www.fotonotes.ru/wp-content/themes/WPInspiration/xmlrpc.php" />
+	<link rel='archives' title='Сентябрь 2011' href='http://www.fotonotes.ru/?m=201109' />
+	<link rel='archives' title='Август 2011' href='http://www.fotonotes.ru/?m=201108' />
+	<link rel='archives' title='Июль 2011' href='http://www.fotonotes.ru/?m=201107' />
+	<link rel='archives' title='Март 2011' href='http://www.fotonotes.ru/?m=201103' />
+	<link rel='archives' title='Февраль 2011' href='http://www.fotonotes.ru/?m=201102' />
+	<link rel='archives' title='Январь 2011' href='http://www.fotonotes.ru/?m=201101' />
+	<link rel='archives' title='Октябрь 2010' href='http://www.fotonotes.ru/?m=201010' />
+	<link rel='archives' title='Сентябрь 2010' href='http://www.fotonotes.ru/?m=201009' />
+	<link rel='archives' title='Июль 2010' href='http://www.fotonotes.ru/?m=201007' />
+	<link rel='archives' title='Май 2010' href='http://www.fotonotes.ru/?m=201005' />
+	<link rel='archives' title='Апрель 2010' href='http://www.fotonotes.ru/?m=201004' />
+	<link rel='archives' title='Март 2010' href='http://www.fotonotes.ru/?m=201003' />
+	<link rel='archives' title='Февраль 2010' href='http://www.fotonotes.ru/?m=201002' />
+	<link rel='archives' title='Январь 2010' href='http://www.fotonotes.ru/?m=201001' />
+	<link rel='archives' title='Декабрь 2009' href='http://www.fotonotes.ru/?m=200912' />
+	<link rel='archives' title='Ноябрь 2009' href='http://www.fotonotes.ru/?m=200911' />
+	<link rel='archives' title='Октябрь 2009' href='http://www.fotonotes.ru/?m=200910' />
+	<link rel='archives' title='Сентябрь 2009' href='http://www.fotonotes.ru/?m=200909' />
+	<link rel='archives' title='Август 2009' href='http://www.fotonotes.ru/?m=200908' />
+	<link rel='archives' title='Июль 2009' href='http://www.fotonotes.ru/?m=200907' />
+	<link rel='archives' title='Июнь 2009' href='http://www.fotonotes.ru/?m=200906' />
+	<link rel='archives' title='Май 2009' href='http://www.fotonotes.ru/?m=200905' />
+	<link rel='archives' title='Апрель 2009' href='http://www.fotonotes.ru/?m=200904' />
+	<link rel='archives' title='Март 2009' href='http://www.fotonotes.ru/?m=200903' />
+	<link rel='archives' title='Февраль 2009' href='http://www.fotonotes.ru/?m=200902' />
+	<link rel='archives' title='Январь 2009' href='http://www.fotonotes.ru/?m=200901' />
+	<link rel='archives' title='Декабрь 2008' href='http://www.fotonotes.ru/?m=200812' />
+	<link rel='archives' title='Ноябрь 2008' href='http://www.fotonotes.ru/?m=200811' />
+	<link rel='archives' title='Октябрь 2008' href='http://www.fotonotes.ru/?m=200810' />
+	<link rel='archives' title='Сентябрь 2008' href='http://www.fotonotes.ru/?m=200809' />
+	<link rel='archives' title='Август 2008' href='http://www.fotonotes.ru/?m=200808' />
+	<link rel='archives' title='Июль 2008' href='http://www.fotonotes.ru/?m=200807' />
+	<link rel='archives' title='Июнь 2008' href='http://www.fotonotes.ru/?m=200806' />
+	<link rel='archives' title='Май 2008' href='http://www.fotonotes.ru/?m=200805' />
+	<link rel='archives' title='Апрель 2008' href='http://www.fotonotes.ru/?m=200804' />
+	<link rel='archives' title='Март 2008' href='http://www.fotonotes.ru/?m=200803' />
+	<link rel='archives' title='Февраль 2008' href='http://www.fotonotes.ru/?m=200802' />
+	<link rel='archives' title='Январь 2008' href='http://www.fotonotes.ru/?m=200801' />
+	<link rel='archives' title='Декабрь 2007' href='http://www.fotonotes.ru/?m=200712' />
+	<link rel='archives' title='Ноябрь 2007' href='http://www.fotonotes.ru/?m=200711' />
+
+</head>
+<body>
+<div id="pageflip">
+		<a href="http://www.fotonotes.ru/?feed=rss2"><img src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/images/page_flip.png" alt="" /></a>
+		<div class="msg_block"></div>
+	</div>
+<div id="header">
+<div class="logo">
+<a href="http://www.fotonotes.ru/"><img src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/images/logo.png"  alt="Фото блог `Заметки о фотографии`" /></a>
+</div>
+</div><!--end:header-->
+<div id="navigation">
+<ul id="nav">
+	<li class="page_item page-item-2"><a href="http://www.fotonotes.ru/?page_id=2">Об авторе</a></li>
+				</ul>
+</div><!--end:navigation-->
+<div id="wrap"><div id="col1">
+  	<div id="pixzoom">
+	
+	
+	
+
+ <div class="pixwrap">
+ 	 <a href="http://www.fotonotes.ru/?p=246">
+ <!--<img src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2011/02/P5022972.jpg&amp;h=400&amp;w=600&amp;q=80&amp;zc=1" alt=""/>-->
+ <img src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2011/02/P5022972.jpg&amp;h=400&amp;w=600&amp;q=80&amp;zc=1" alt=""; style="opacity:1.0; height:200px; top:0px;left:0px">
+
+ </a>
+ </div>
+
+
+
+
+
+ <div class="pixwrap">
+ 	 <a href="http://www.fotonotes.ru/?p=192">
+ <!--<img src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2010/07/P6088107.jpg&amp;h=400&amp;w=600&amp;q=80&amp;zc=1" alt=""/>-->
+ <img src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2010/07/P6088107.jpg&amp;h=400&amp;w=600&amp;q=80&amp;zc=1" alt=""; style="opacity:1.0; height:200px; top:0px;left:0px">
+
+ </a>
+ </div>
+
+
+
+
+
+ <div class="pixwrap">
+ 	 <a href="http://www.fotonotes.ru/?p=163">
+ <!--<img src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2009/09/sunrise.jpg&amp;h=400&amp;w=600&amp;q=80&amp;zc=1" alt=""/>-->
+ <img src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2009/09/sunrise.jpg&amp;h=400&amp;w=600&amp;q=80&amp;zc=1" alt=""; style="opacity:1.0; height:200px; top:0px;left:0px">
+
+ </a>
+ </div>
+
+
+
+
+
+ <div class="pixwrap">
+ 	 <a href="http://www.fotonotes.ru/?p=147">
+ <!--<img src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2009/04/3.jpg&amp;h=400&amp;w=600&amp;q=80&amp;zc=1" alt=""/>-->
+ <img src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2009/04/3.jpg&amp;h=400&amp;w=600&amp;q=80&amp;zc=1" alt=""; style="opacity:1.0; height:200px; top:0px;left:0px">
+
+ </a>
+ </div>
+
+
+
+    
+       </div>
+           
+      
+
+
+<div class="blok">
+<h2><a href="http://www.fotonotes.ru/?p=279" title="Дивноморское – чем занять себя фотографу.">Дивноморское – чем занять себя фотографу.</a></h2>
+<a href="http://www.fotonotes.ru/?p=279" title="Дивноморское – чем занять себя фотографу."><img class="alignleft" src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2011/09/P7216061.jpg&amp;h=170&amp;w=170&amp;q=80&amp;zc=1" alt=""/></a>
+<p>Итак, с оглядкой уже на следующий сезон отпусков, решил написать небольшую заметку про отдых на Черноморском побережье в поселке Дивноморское, что недалеко от Геленджика.
+Собственно речь тут будет не столько об отдыхе, условия проживания и прочему, сколько о том, как и что можно поснимать фотографу.
+Сразу скажу – в самом поселке фотографировать особенно нечего. Это типичный черноморский курортный городок без древней истории,...&nbsp;<a href='http://www.fotonotes.ru/?p=279'>&raquo;</a></p>  <div class="clear"></div>
+ <span class="time">
+26 09  2011</span>
+<span class="categ">
+Рубрика: <a href="http://www.fotonotes.ru/?cat=11" rel="category">Советы новичкам</a>, <a href="http://www.fotonotes.ru/?cat=21" rel="category">Трэвел фото</a></span>
+<span class="comm">
+<a href="http://www.fotonotes.ru/?p=279#comments"> 29 комментариев</a></span>
+ <span class="dalee">
+<a href="http://www.fotonotes.ru/?p=279"  title="читать запись полностью Дивноморское – чем занять себя фотографу.">Далее &raquo;</a>
+</span>
+<div class="clear"></div>
+</div>	
+<div class="blok">
+<h2><a href="http://www.fotonotes.ru/?p=275" title="По поводу съемки панорам с рук">По поводу съемки панорам с рук</a></h2>
+<a href="http://www.fotonotes.ru/?p=275" title="По поводу съемки панорам с рук"><img class="alignleft" src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2011/08/Group-1-P7246203_P7246210-8-images-копия.jpg&amp;h=170&amp;w=170&amp;q=80&amp;zc=1" alt=""/></a>
+<p>Я часто снимаю панорамы с рук. Естественно, что при этом происходит небольшой сдвиг картинки относительно горизонта. Вот я и задался таким вопросом – а сколько я теряю из-за этого сдвига? Стоит ли использовать штатив для большей точности? Или лучше ловить момент и снимать, а не копаться со штативом?
+В свое время я читал на сайте Хулиганствующего элемента теоретические выкладки на данный счет. И запомнилось мне, что сдвиги могут...&nbsp;<a href='http://www.fotonotes.ru/?p=275'>&raquo;</a></p>  <div class="clear"></div>
+ <span class="time">
+29 08  2011</span>
+<span class="categ">
+Рубрика: <a href="http://www.fotonotes.ru/?cat=18" rel="category">Композиция</a>, <a href="http://www.fotonotes.ru/?cat=10" rel="category">Мысли вслух</a>, <a href="http://www.fotonotes.ru/?cat=22" rel="category">Постобработка</a>, <a href="http://www.fotonotes.ru/?cat=11" rel="category">Советы новичкам</a>, <a href="http://www.fotonotes.ru/?cat=7" rel="category">Съемка пейзажа</a>, <a href="http://www.fotonotes.ru/?cat=21" rel="category">Трэвел фото</a></span>
+<span class="comm">
+<a href="http://www.fotonotes.ru/?p=275#comments"> 21 комментарий</a></span>
+ <span class="dalee">
+<a href="http://www.fotonotes.ru/?p=275"  title="читать запись полностью По поводу съемки панорам с рук">Далее &raquo;</a>
+</span>
+<div class="clear"></div>
+</div>	
+<div class="blok">
+<h2><a href="http://www.fotonotes.ru/?p=271" title="Мой рабочий процесс обработки фотографий с Lightroom">Мой рабочий процесс обработки фотографий с Lightroom</a></h2>
+<a href="http://www.fotonotes.ru/?p=271" title="Мой рабочий процесс обработки фотографий с Lightroom"><img class="alignleft" src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2011/08/thumbnail21.png&amp;h=170&amp;w=170&amp;q=80&amp;zc=1" alt=""/></a>
+<p>Попытался переосмыслить и зафиксировать-таки свой процесс обработки фотографий. Процесс достаточно простой – но у меня и фотография «для себя», а учитывая вполне обычный образ жизни, партия фотографий для обработки возникает раз в месяц.
+Итак. Процесс завязан на LightRoom. Все исходники фотографий загружены в его библиотеку. Первичная запись фотографий на компьютер с флешки происходит вручную. В общем разделе в хронологическом...&nbsp;<a href='http://www.fotonotes.ru/?p=271'>&raquo;</a></p>  <div class="clear"></div>
+ <span class="time">
+15 08  2011</span>
+<span class="categ">
+Рубрика: <a href="http://www.fotonotes.ru/?cat=28" rel="category">LightRoom</a>, <a href="http://www.fotonotes.ru/?cat=22" rel="category">Постобработка</a>, <a href="http://www.fotonotes.ru/?cat=11" rel="category">Советы новичкам</a></span>
+<span class="comm">
+<a href="http://www.fotonotes.ru/?p=271#comments"> 17 комментариев</a></span>
+ <span class="dalee">
+<a href="http://www.fotonotes.ru/?p=271"  title="читать запись полностью Мой рабочий процесс обработки фотографий с Lightroom">Далее &raquo;</a>
+</span>
+<div class="clear"></div>
+</div>	
+<div class="blok">
+<h2><a href="http://www.fotonotes.ru/?p=268" title="Фотоссылки июль: книга про LightRoom 3, журнал «ФотоTRAVEL», новинка от Olympus&#8230;">Фотоссылки июль: книга про LightRoom 3, журнал «ФотоTRAVEL», новинка от Olympus&#8230;</a></h2>
+<a href="http://www.fotonotes.ru/?p=268" title="Фотоссылки июль: книга про LightRoom 3, журнал «ФотоTRAVEL», новинка от Olympus&#8230;"><img class="alignleft" src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2011/07/0ce4319272a4c6d13eb354ebb1cd0d7a1.jpg&amp;h=170&amp;w=170&amp;q=80&amp;zc=1" alt=""/></a>
+<p>Всем привет!!!
+Если кто-то что-то пропустил из последних интересных вещей в фото вот мой небольшой дайджест:
+1. Летний зной, отпуска и путешествия — время наиболее активного использования фототехники. Именно сейчас актуально изучить основные приемы съемки и композиции, обработки кадров и монтажа. Новичкам будет интересна новая книга «Adobe Lightroom 3. Практическое руководство фотографа». &#171;Это пособие поможет разобраться в премудростях...&nbsp;<a href='http://www.fotonotes.ru/?p=268'>&raquo;</a></p>  <div class="clear"></div>
+ <span class="time">
+13 07  2011</span>
+<span class="categ">
+Рубрика: <a href="http://www.fotonotes.ru/?cat=2" rel="category">Ссылки</a></span>
+<span class="comm">
+<a href="http://www.fotonotes.ru/?p=268#comments"> 3 комментария</a></span>
+ <span class="dalee">
+<a href="http://www.fotonotes.ru/?p=268"  title="читать запись полностью Фотоссылки июль: книга про LightRoom 3, журнал «ФотоTRAVEL», новинка от Olympus&#8230;">Далее &raquo;</a>
+</span>
+<div class="clear"></div>
+</div>	
+<div class="blok">
+<h2><a href="http://www.fotonotes.ru/?p=261" title="NVIDIA® Quadro – новая эпоха в работе с Adobe Photoshop">NVIDIA® Quadro – новая эпоха в работе с Adobe Photoshop</a></h2>
+<a href="http://www.fotonotes.ru/?p=261" title="NVIDIA® Quadro – новая эпоха в работе с Adobe Photoshop"><img class="alignleft" src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2011/07/header_adobe_photoshop_cs511.jpg&amp;h=170&amp;w=170&amp;q=80&amp;zc=1" alt=""/></a>
+<p>Всем привет! Вернулся. Надеюсь и планирую, что надолго. Соскучился по фотографии.
+По работе занимался с сайтом Nvidia. Ребята молодцы &#8212; помню раньше знал о них только как о простом производителе видеокарт, а как оказалось, сейчас у них куча новых технологий и кое-что есть и для фотографов.
+В частности, Nvidia выпускает графические процессоры Quadro которые обеспечивают прирост производительности в 5 раз при работе с широким спектром...&nbsp;<a href='http://www.fotonotes.ru/?p=261'>&raquo;</a></p>  <div class="clear"></div>
+ <span class="time">
+05 07  2011</span>
+<span class="categ">
+Рубрика: <a href="http://www.fotonotes.ru/?cat=22" rel="category">Постобработка</a>, <a href="http://www.fotonotes.ru/?cat=5" rel="category">Удивительное рядом</a></span>
+<span class="comm">
+<a href="http://www.fotonotes.ru/?p=261#comments"> 4 комментария</a></span>
+ <span class="dalee">
+<a href="http://www.fotonotes.ru/?p=261"  title="читать запись полностью NVIDIA® Quadro – новая эпоха в работе с Adobe Photoshop">Далее &raquo;</a>
+</span>
+<div class="clear"></div>
+</div>	
+<div class="blok">
+<h2><a href="http://www.fotonotes.ru/?p=257" title="Об одной очень досадной проблеме, возникшей при переносе LightRoom на новый HDD">Об одной очень досадной проблеме, возникшей при переносе LightRoom на новый HDD</a></h2>
+<a href="http://www.fotonotes.ru/?p=257" title="Об одной очень досадной проблеме, возникшей при переносе LightRoom на новый HDD"><img class="alignleft" src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2011/03/lightroomerror1.jpg&amp;h=170&amp;w=170&amp;q=80&amp;zc=1" alt=""/></a>
+<p>Недавно менял жесткий диск – вместо старого и глючного HDD установил нормальный Caviar Black на 1 Тб.
+Естественно, переносил все фотографии и заодно рабочие файлы LightRoom. Как это делать – говорить не буду, ибо сказано уже не раз.
+Я хотел рассказать о другой проблеме, которую вроде никто до меня не озвучивал. Имя проблемы
+&#171;the file appears to be unsupported or damaged&#187;.
+Именно такую надпись я увидел, когда продолжил работу в LightRoom уже на новом HDD. Каким-то...&nbsp;<a href='http://www.fotonotes.ru/?p=257'>&raquo;</a></p>  <div class="clear"></div>
+ <span class="time">
+28 03  2011</span>
+<span class="categ">
+Рубрика: <a href="http://www.fotonotes.ru/?cat=28" rel="category">LightRoom</a>, <a href="http://www.fotonotes.ru/?cat=22" rel="category">Постобработка</a>, <a href="http://www.fotonotes.ru/?cat=16" rel="category">Разное</a>, <a href="http://www.fotonotes.ru/?cat=11" rel="category">Советы новичкам</a></span>
+<span class="comm">
+<a href="http://www.fotonotes.ru/?p=257#comments"> 6 комментариев</a></span>
+ <span class="dalee">
+<a href="http://www.fotonotes.ru/?p=257"  title="читать запись полностью Об одной очень досадной проблеме, возникшей при переносе LightRoom на новый HDD">Далее &raquo;</a>
+</span>
+<div class="clear"></div>
+</div>	
+<div class="blok">
+<h2><a href="http://www.fotonotes.ru/?p=251" title="Прикольный подарок фотографу &#8212; настенные часы">Прикольный подарок фотографу &#8212; настенные часы</a></h2>
+<a href="http://www.fotonotes.ru/?p=251" title="Прикольный подарок фотографу &#8212; настенные часы"><img class="alignleft" src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2011/03/часы.png&amp;h=170&amp;w=170&amp;q=80&amp;zc=1" alt=""/></a>
+<p>Недавно у меня был ДР. И в качестве одного из подарков преподнесли мне настенные часы: 
+Металлический лист диаметром 37 сантиметров &#8212; и на магнитах к нему крепятся небольшие фоторамки.
+Рамки небольшие, пейзаж, конечно, туда не вставишь, но вот портрет можно.
+Собственно, клевая, тематичная вещица. И полезная. И на виду всегда будет. Так что если думаете, что подарить человеку, увлекающемуся фотографией &#8212; можете купить вот такие...&nbsp;<a href='http://www.fotonotes.ru/?p=251'>&raquo;</a></p>  <div class="clear"></div>
+ <span class="time">
+13 03  2011</span>
+<span class="categ">
+Рубрика: <a href="http://www.fotonotes.ru/?cat=16" rel="category">Разное</a>, <a href="http://www.fotonotes.ru/?cat=23" rel="category">Фото-гаджеты</a>, <a href="http://www.fotonotes.ru/?cat=13" rel="category">Фотоприколы</a></span>
+<span class="comm">
+<a href="http://www.fotonotes.ru/?p=251#comments"> 11 комментариев</a></span>
+ <span class="dalee">
+<a href="http://www.fotonotes.ru/?p=251"  title="читать запись полностью Прикольный подарок фотографу &#8212; настенные часы">Далее &raquo;</a>
+</span>
+<div class="clear"></div>
+</div>	
+<div class="blok">
+<h2><a href="http://www.fotonotes.ru/?p=246" title="Быстроссылки: про софт, про лучшие фото 2010, про LightRoom&#8230;">Быстроссылки: про софт, про лучшие фото 2010, про LightRoom&#8230;</a></h2>
+<a href="http://www.fotonotes.ru/?p=246" title="Быстроссылки: про софт, про лучшие фото 2010, про LightRoom&#8230;"><img class="alignleft" src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2011/02/P5022972.jpg&amp;h=170&amp;w=170&amp;q=80&amp;zc=1" alt=""/></a>
+<p>Начинаю потихоньку просматривать несколько тысяч непрочтенных постов, скопившихся в rss-ридере.
+Подметил про себя, что во многих случаях, когда мне нужно получить какую-либо информацию по фотографии, я вспоминаю, что когда-то я про это или писал, или просто ссылался. И обращаюсь к своим записям. Надеюсь, для моих читателей тоже есть польза в этих ссылках.
+В этот раз ссылки по различным тематикам: и про софт, и про лучшие фото, и про...&nbsp;<a href='http://www.fotonotes.ru/?p=246'>&raquo;</a></p>  <div class="clear"></div>
+ <span class="time">
+08 02  2011</span>
+<span class="categ">
+Рубрика: <a href="http://www.fotonotes.ru/?cat=32" rel="category">Избранное</a>, <a href="http://www.fotonotes.ru/?cat=16" rel="category">Разное</a>, <a href="http://www.fotonotes.ru/?cat=2" rel="category">Ссылки</a></span>
+<span class="comm">
+<a href="http://www.fotonotes.ru/?p=246#comments"> 5 комментариев</a></span>
+ <span class="dalee">
+<a href="http://www.fotonotes.ru/?p=246"  title="читать запись полностью Быстроссылки: про софт, про лучшие фото 2010, про LightRoom&#8230;">Далее &raquo;</a>
+</span>
+<div class="clear"></div>
+</div>	
+<div class="blok">
+<h2><a href="http://www.fotonotes.ru/?p=242" title="Ускоряем процесс обработки фото в LightRoom">Ускоряем процесс обработки фото в LightRoom</a></h2>
+<a href="http://www.fotonotes.ru/?p=242" title="Ускоряем процесс обработки фото в LightRoom"><img class="alignleft" src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/wp-content/uploads/2011/01/Копия-New-panorama-3.jpg&amp;h=170&amp;w=170&amp;q=80&amp;zc=1" alt=""/></a>
+<p>Собственно, Америку я не открою, знатокам LightRoom и так все давно известно.
+В последнее время для увеличения скорости обработки фотографий (особенно если это много-много фотографий с отпуска) использую 2 простых приема:
+1.	Копирование настроек (Ctrl+Shift+c)
+2.	Пресеты для локальной коррекции
+Копирование настроек позволяет сохранить в буфер значения текущих настроек, используемых при обработке фотографии. Можно сохранить все что угодно:...&nbsp;<a href='http://www.fotonotes.ru/?p=242'>&raquo;</a></p>  <div class="clear"></div>
+ <span class="time">
+31 01  2011</span>
+<span class="categ">
+Рубрика: <a href="http://www.fotonotes.ru/?cat=28" rel="category">LightRoom</a>, <a href="http://www.fotonotes.ru/?cat=22" rel="category">Постобработка</a>, <a href="http://www.fotonotes.ru/?cat=11" rel="category">Советы новичкам</a></span>
+<span class="comm">
+<a href="http://www.fotonotes.ru/?p=242#comments"> 15 комментариев</a></span>
+ <span class="dalee">
+<a href="http://www.fotonotes.ru/?p=242"  title="читать запись полностью Ускоряем процесс обработки фото в LightRoom">Далее &raquo;</a>
+</span>
+<div class="clear"></div>
+</div>	
+<div class="blok">
+<h2><a href="http://www.fotonotes.ru/?p=195" title="Большие фотографии Вконтакте">Большие фотографии Вконтакте</a></h2>
+<a href="http://www.fotonotes.ru/?p=195" title="Большие фотографии Вконтакте"><img class="alignleft" src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/timthumb.php?src=http://www.fotonotes.ru/gallery/images/20101008010330_new%20panorama%206.jpg&amp;h=170&amp;w=170&amp;q=80&amp;zc=1" alt=""/></a>
+<p>Ну вот, 3 недели дома без интернета закончились )) и с ними закончилась информационная ломка, притупляемая периодическими порциями контента, получаемого на работе.
+Заканчивая недавно начатую тему про загрузку фотографий Вконтакт, хочу сказать пару слов о загрузке фотографий больших размеров.
+Наверняка многие заметили, как несколько месяцев назад Вконтакте появился функционал для просмотра фотографий в высоком разрешении.
+Теперь максимальный...&nbsp;<a href='http://www.fotonotes.ru/?p=195'>&raquo;</a></p>  <div class="clear"></div>
+ <span class="time">
+08 10  2010</span>
+<span class="categ">
+Рубрика: <a href="http://www.fotonotes.ru/?cat=10" rel="category">Мысли вслух</a>, <a href="http://www.fotonotes.ru/?cat=16" rel="category">Разное</a>, <a href="http://www.fotonotes.ru/?cat=11" rel="category">Советы новичкам</a></span>
+<span class="comm">
+<a href="http://www.fotonotes.ru/?p=195#comments"> 10 комментариев</a></span>
+ <span class="dalee">
+<a href="http://www.fotonotes.ru/?p=195"  title="читать запись полностью Большие фотографии Вконтакте">Далее &raquo;</a>
+</span>
+<div class="clear"></div>
+</div>	
+   <div style="clear:both;"></div> 
+
+<div class="blok">
+<span class="twitter">&nbsp;</span>
+<ul id="twitter_update_list">
+<li style="display:none"></li>
+</ul></div>
+
+<!--For Twitter Updates-->
+<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/fotonotes.json?callback=twitterCallback2&amp;count=1"></script>
+<!--End of For Twitter Updates-->
+
+
+
+
+
+
+
+<div class='wp-pagenavi'>
+<span class='pages'>Страница 1 из 20</span><span class='current'>1</span><a class="page larger" href="http://www.fotonotes.ru/wp-content/uploads/2011/01/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F-New-panorama-3.jpg/?paged=2">2</a><a class="page larger" href="http://www.fotonotes.ru/wp-content/uploads/2011/01/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F-New-panorama-3.jpg/?paged=3">3</a><a class="page larger" href="http://www.fotonotes.ru/wp-content/uploads/2011/01/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F-New-panorama-3.jpg/?paged=4">4</a><a class="page larger" href="http://www.fotonotes.ru/wp-content/uploads/2011/01/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F-New-panorama-3.jpg/?paged=5">5</a><span class='extend'>...</span><a class="larger page" href="http://www.fotonotes.ru/wp-content/uploads/2011/01/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F-New-panorama-3.jpg/?paged=10">10</a><a class="larger page" href="http://www.fotonotes.ru/wp-content/uploads/2011/01/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F-New-panorama-3.jpg/?paged=20">20</a><span class='extend'>...</span><a class="nextpostslink" rel="next" href="http://www.fotonotes.ru/wp-content/uploads/2011/01/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F-New-panorama-3.jpg/?paged=2">&raquo;</a><a class="last" href="http://www.fotonotes.ru/wp-content/uploads/2011/01/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F-New-panorama-3.jpg/?paged=20">Последняя &raquo;</a>
+</div></div><!--end:col1-->
+﻿<div id="col2">
+<div class="side-blok">
+<form id="searchform" method="get" action="http://www.fotonotes.ru">
+<input type="text"  name="s" id="s" size="20" />
+<input type="submit" value="Поиск" />
+</form>
+<div style="clear:both;"></div>
+</div>
+
+ 		
+<div class="side-blok">
+<h3>Комментарии</h3>
+ <ul>
+	<li><a href="http://www.fotonotes.ru/?p=54#comment-107408" title="Самые интересные русскоязычные сайты о фотографии, Март 14, 2008">Антон</a>: Неплохой сайт по фотографии http://3-photo.ru/ Есть фотоальбомы,...</li>
+	<li><a href="http://www.fotonotes.ru/?p=54#comment-106875" title="Самые интересные русскоязычные сайты о фотографии, Март 14, 2008">Алексей</a>: Объявления о продаже и покупке фототехники. Множество интересных и...</li>
+	<li><a href="http://www.fotonotes.ru/?p=26#comment-106300" title="Как сделать искрометное фото, Декабрь 17, 2007">Артем Шматок</a>: Полезная статья. особенно для таких новичков как я) Воспльзуюсь...</li>
+</ul></div>
+<div class="clear"></div>
+<div class="side-blok">
+</li>
+	 <h3>Лучшие статьи</h3>
+     
+	  <ul><a href=http://www.fotonotes.ru/?p=79># Трэвел-фото для энтузиастов: 48 самых разнообразных советов!</a></ul>
+	  <ul><a href=http://www.fotonotes.ru/?p=76># Как перестать бояться и начать фотографировать!</a></ul>
+	  <ul><a href=http://www.fotonotes.ru/?p=72># 5 извечных вопросов начинающего фотографа</a></ul>
+	  <ul><a href=http://www.fotonotes.ru/?p=71># Важные мелочи при выборе фотоаппарата</a></ul>
+	  <ul><a href=http://www.fotonotes.ru/?p=54># Самые интересные русскоязычные сайты о фотографии</a></ul>
+	  <ul><a href=http://www.fotonotes.ru/?p=47># Расфокусировка - несколько приемов сделать снимок оригинальнее</a></ul>
+	  <ul><a href=http://www.fotonotes.ru/?p=41># 11 способов добавить тени на ваш снимок</a></ul>
+      <ul><a href=http://www.fotonotes.ru/?p=18># 7 ошибок начинающих или как не надо фотографировать</a></ul>
+	  <ul><a href=http://www.fotonotes.ru/?p=36># 16 необычных техник для съемки портрета</a></ul>
+	  <ul><a href=http://www.fotonotes.ru/?p=29># Спроси себя 10 раз, прежде чем сделаешь кадр!</a></ul>
+	  <ul><a href=http://www.fotonotes.ru/?p=14># 11 советов начинающим фотографам</a></ul>
+	  <ul><a href=http://www.fotonotes.ru/?p=6># 5 основ фотомастерства</a></ul>
+      <ul><a href=http://www.fotonotes.ru/?p=41># 11 способов добавить тени на ваш снимок</a></ul> 
+	
+</div>
+<div class="clear"></div>
+<div class="side-blok">
+<h3>Рубрики</h3>
+<ul>
+ 	<li class="cat-item cat-item-28"><a href="http://www.fotonotes.ru/?cat=28" >LightRoom</a> (17)
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.fotonotes.ru/?cat=24" >RAW и HDR</a> (4)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.fotonotes.ru/?cat=1" >Без рубрики</a> (2)
+</li>
+	<li class="cat-item cat-item-30"><a href="http://www.fotonotes.ru/?cat=30" >Вспышка</a> (6)
+</li>
+	<li class="cat-item cat-item-32"><a href="http://www.fotonotes.ru/?cat=32" title="избранное для картинок">Избранное</a> (5)
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.fotonotes.ru/?cat=18" >Композиция</a> (8)
+</li>
+	<li class="cat-item cat-item-27"><a href="http://www.fotonotes.ru/?cat=27" >Конкурсы</a> (2)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.fotonotes.ru/?cat=6" >Макросъемка</a> (5)
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.fotonotes.ru/?cat=10" >Мысли вслух</a> (54)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.fotonotes.ru/?cat=4" >О блоге</a> (14)
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.fotonotes.ru/?cat=17" >Обзоры фотоаппаратов и объективов</a> (8)
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.fotonotes.ru/?cat=14" >Портрет</a> (22)
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.fotonotes.ru/?cat=22" >Постобработка</a> (21)
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.fotonotes.ru/?cat=12" >Программы для удобства</a> (13)
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.fotonotes.ru/?cat=16" >Разное</a> (22)
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.fotonotes.ru/?cat=19" >Репортаж и улица</a> (4)
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.fotonotes.ru/?cat=8" >Рецензии на журналы/книги</a> (16)
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.fotonotes.ru/?cat=20" >Свадьба</a> (10)
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.fotonotes.ru/?cat=11" >Советы новичкам</a> (95)
+</li>
+	<li class="cat-item cat-item-2"><a href="http://www.fotonotes.ru/?cat=2" >Ссылки</a> (39)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.fotonotes.ru/?cat=7" >Съемка пейзажа</a> (17)
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.fotonotes.ru/?cat=21" >Трэвел фото</a> (9)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.fotonotes.ru/?cat=5" >Удивительное рядом</a> (28)
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.fotonotes.ru/?cat=9" >Философия фотографии</a> (8)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.fotonotes.ru/?cat=23" >Фото-гаджеты</a> (11)
+</li>
+	<li class="cat-item cat-item-31"><a href="http://www.fotonotes.ru/?cat=31" >Фотоблоги и фотосайты</a> (1)
+</li>
+	<li class="cat-item cat-item-29"><a href="http://www.fotonotes.ru/?cat=29" >Фотогалереи</a> (7)
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.fotonotes.ru/?cat=13" >Фотоприколы</a> (5)
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.fotonotes.ru/?cat=15" >Цитатник</a> (2)
+</li>
+</ul>
+</div>
+<div class="clear"></div>
+<div class="side-blok">
+<h3>Архивы</h3>
+  <ul>
+   <!--	<link rel='archives' title='2011' href='http://www.fotonotes.ru/?m=2011' />
+	<link rel='archives' title='2010' href='http://www.fotonotes.ru/?m=2010' />
+	<link rel='archives' title='2009' href='http://www.fotonotes.ru/?m=2009' />
+	<link rel='archives' title='2008' href='http://www.fotonotes.ru/?m=2008' />
+	<link rel='archives' title='2007' href='http://www.fotonotes.ru/?m=2007' />
+-->
+   
+   <select name="archive-dropdown" onChange='document.location.href=this.options[this.selectedIndex].value;'> 
+  <option value="">Выберите месяц</option> 
+  	<option value='http://www.fotonotes.ru/?m=201109'> Сентябрь 2011 &nbsp;(1)</option>
+	<option value='http://www.fotonotes.ru/?m=201108'> Август 2011 &nbsp;(2)</option>
+	<option value='http://www.fotonotes.ru/?m=201107'> Июль 2011 &nbsp;(2)</option>
+	<option value='http://www.fotonotes.ru/?m=201103'> Март 2011 &nbsp;(2)</option>
+	<option value='http://www.fotonotes.ru/?m=201102'> Февраль 2011 &nbsp;(1)</option>
+	<option value='http://www.fotonotes.ru/?m=201101'> Январь 2011 &nbsp;(1)</option>
+	<option value='http://www.fotonotes.ru/?m=201010'> Октябрь 2010 &nbsp;(1)</option>
+	<option value='http://www.fotonotes.ru/?m=201009'> Сентябрь 2010 &nbsp;(1)</option>
+	<option value='http://www.fotonotes.ru/?m=201007'> Июль 2010 &nbsp;(2)</option>
+	<option value='http://www.fotonotes.ru/?m=201005'> Май 2010 &nbsp;(3)</option>
+	<option value='http://www.fotonotes.ru/?m=201004'> Апрель 2010 &nbsp;(4)</option>
+	<option value='http://www.fotonotes.ru/?m=201003'> Март 2010 &nbsp;(5)</option>
+	<option value='http://www.fotonotes.ru/?m=201002'> Февраль 2010 &nbsp;(5)</option>
+	<option value='http://www.fotonotes.ru/?m=201001'> Январь 2010 &nbsp;(2)</option>
+	<option value='http://www.fotonotes.ru/?m=200912'> Декабрь 2009 &nbsp;(4)</option>
+	<option value='http://www.fotonotes.ru/?m=200911'> Ноябрь 2009 &nbsp;(2)</option>
+	<option value='http://www.fotonotes.ru/?m=200910'> Октябрь 2009 &nbsp;(3)</option>
+	<option value='http://www.fotonotes.ru/?m=200909'> Сентябрь 2009 &nbsp;(1)</option>
+	<option value='http://www.fotonotes.ru/?m=200908'> Август 2009 &nbsp;(3)</option>
+	<option value='http://www.fotonotes.ru/?m=200907'> Июль 2009 &nbsp;(4)</option>
+	<option value='http://www.fotonotes.ru/?m=200906'> Июнь 2009 &nbsp;(2)</option>
+	<option value='http://www.fotonotes.ru/?m=200905'> Май 2009 &nbsp;(4)</option>
+	<option value='http://www.fotonotes.ru/?m=200904'> Апрель 2009 &nbsp;(5)</option>
+	<option value='http://www.fotonotes.ru/?m=200903'> Март 2009 &nbsp;(5)</option>
+	<option value='http://www.fotonotes.ru/?m=200902'> Февраль 2009 &nbsp;(4)</option>
+	<option value='http://www.fotonotes.ru/?m=200901'> Январь 2009 &nbsp;(6)</option>
+	<option value='http://www.fotonotes.ru/?m=200812'> Декабрь 2008 &nbsp;(8)</option>
+	<option value='http://www.fotonotes.ru/?m=200811'> Ноябрь 2008 &nbsp;(9)</option>
+	<option value='http://www.fotonotes.ru/?m=200810'> Октябрь 2008 &nbsp;(7)</option>
+	<option value='http://www.fotonotes.ru/?m=200809'> Сентябрь 2008 &nbsp;(5)</option>
+	<option value='http://www.fotonotes.ru/?m=200808'> Август 2008 &nbsp;(9)</option>
+	<option value='http://www.fotonotes.ru/?m=200807'> Июль 2008 &nbsp;(8)</option>
+	<option value='http://www.fotonotes.ru/?m=200806'> Июнь 2008 &nbsp;(8)</option>
+	<option value='http://www.fotonotes.ru/?m=200805'> Май 2008 &nbsp;(7)</option>
+	<option value='http://www.fotonotes.ru/?m=200804'> Апрель 2008 &nbsp;(7)</option>
+	<option value='http://www.fotonotes.ru/?m=200803'> Март 2008 &nbsp;(9)</option>
+	<option value='http://www.fotonotes.ru/?m=200802'> Февраль 2008 &nbsp;(9)</option>
+	<option value='http://www.fotonotes.ru/?m=200801'> Январь 2008 &nbsp;(12)</option>
+	<option value='http://www.fotonotes.ru/?m=200712'> Декабрь 2007 &nbsp;(11)</option>
+	<option value='http://www.fotonotes.ru/?m=200711'> Ноябрь 2007 &nbsp;(14)</option>
+ </select>
+  
+ </ul>
+ </div>
+ <div class="clear"></div>
+<div class="side-blok">
+<h3>Метки</h3>
+<a href="http://www.fotonotes.ru/?tag=%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d0%b5-%d1%84%d0%be%d1%82%d0%be" class="tag-cloud-link tag-link-33 tag-link-position-1" style="font-size: 9pt;" aria-label="Собственные фото (1 элемент)">Собственные фото</a></div>
+
+
+<div class="clear"></div>
+<div class="side-blok">
+
+      <h3>Друзья</h3>
+<ul># Alick.ru — </span><a href=http://alick.ru/> несколько слов о фотографии и пара ссылок</a></ul>
+<ul><a href=http://fotokaif.com/># Фотокайф</a></ul>
+<ul><a href=http://fototerra.net/># Mezzanine</a></ul>
+<ul><a href=http://svetlyak.ru/blog/># Блог Большого Светляка</a></ul>
+<ul><a href=http://focused.ru/># Простые фокусы</a></ul>
+<ul><a href=http://fotoxp.ru/># Фото XPерт</a></ul>
+<ul><a href=http://photomixer.ru/># PhotoMixer: о фотографии</a></ul>
+<ul><a href=http://foto.ograf.ru/># Заметки фоторедактора</a></ul>
+<ul><a href=http://buy-books.ru/blog/># Интересное о фотографии и фотографах</a></ul>
+<ul><a href=http://www.photo.ageset.com/># Фото Блог Лучшие Фотографы Мира</a></ul>
+<ul><a href="http://kuy.ru/"># Куй.Ру - персональный фотоблог.</a></ul>
+<ul><a href="http://www.pyatki.ru/"># Все интересное о фото</a></ul> 
+<ul><a href="http://z013.wordpress.com/"># Записки о Фото</a></ul> 
+<ul><a href="http://www.photo-amateur.ru/"># Заметки фотолюбителей</a></ul> 
+<ul><a href="http://fototips.ru/"># Статьи о фото и обработке</a></ul> 
+<ul><a href="http://fotochtoto.ru/"># Фотошкола для начинающих</a></ul> 
+  <ul><a href="http://vendigo.ru/">#Вендиго. Теория и практика фотографии</a></ul> 
+	</li>
+
+</div>
+
+
+
+<br>
+	  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	  <!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t21.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border=0 width=88 height=31><\/a>")//--></script><!--/LiveInternet-->
+	</p>
+	<p style="margin:20px; font-size: 70%">
+	</p>
+
+	
+ <div class="clear"></div>    
+</div><!--end:col2-->  <div class="clear"></div>
+<div class="clear"></div>
+</div><!--end:wrap-->
+<div id="footer">
+<p> 2010  &copy; <a href="http://www.fotonotes.ru/">Фото блог `Заметки о фотографии`</a>  &middot;  <a href="http://www.fotonotes.ru/?nm1993t01">Войти</a> 
+ &middot;  Дизайн: <a href="http://www.goodwinpress.ru" target="_blank">Goodwin</a> &middot;   <a id="backtotop" href="#header">Наверх</a></p><script type='text/javascript' src='http://www.fotonotes.ru/wp-includes/js/wp-embed.min.js?ver=5.1.6'></script>
+
+<p style="font-size: 80%">
+ <!--EF8618652FAC4DF46E5AFA50B785E028--><!--3d2147de--><!--3d2147de--><!--9ba27be3--><script async='async' src='https://w.uptolike.com/widgets/v1/zp.js?pid=cc3a1c2aea954d54c7b8cc33f5978b0a0c9efd44' type='text/javascript'></script><!--9ba27be3-->&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+</div><!--end:footer-->
+
+<script src="http://www.fotonotes.ru/wp-content/themes/WPInspiration/js/menu.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+$(document).ready(function(){
+//Page Flip on hover
+	$("#pageflip").hover(function() {
+		$("#pageflip img , .msg_block").stop()
+			.animate({
+				width: '307px', 
+				height: '319px'
+			}, 500); 
+		} , function() {
+		$("#pageflip img").stop() 
+			.animate({
+				width: '50px', 
+				height: '52px'
+			}, 220);
+		$(".msg_block").stop() 
+			.animate({
+				width: '50px', 
+				height: '50px'
+			}, 200);
+	});
+});
+</script> 
+
+</body>
+</html>
